@@ -7,7 +7,7 @@ Score single, and multiple (complex) abundance profiles
 ## Input formats
 The Abundance sheet exemplifying the input format is provided in the Input folder-
 
-**Abundances.tsv** - This is the main input file. First column should have Protein IDs and rest of the column representing gel slices should have serially numbered headers.
+**Abundances.tsv** - This is the main input file. First column should have Protein IDs, the second should have Gene names, and rest of the column representing gel slices should have serially numbered headers.
 
 ## How to Run
 
