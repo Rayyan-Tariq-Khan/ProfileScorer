@@ -1,4 +1,4 @@
-**Try the guided demo >** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/Rayyan-Tariq-Khan/ProfileScorer/blob/main/ProfileScorer_Demo.ipynb)
+**Try the guided demo >** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rayyan-Tariq-Khan/ProfileScorer/blob/main/ProfileScorer_Demo.ipynb)
 
 
 # ProfileScorer
