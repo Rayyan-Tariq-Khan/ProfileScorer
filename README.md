@@ -1,5 +1,9 @@
 **Try the guided demo >** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rayyan-Tariq-Khan/ProfileScorer/blob/main/ProfileScorer_Demo.ipynb)
 
+**Demo review + Feature wishlist**
+
+[![Open Gform](https://upload.wikimedia.org/wikipedia/commons/c/c2/Google_Forms_logo_%282014-2020%29.svg)](https://docs.google.com/forms/d/e/1FAIpQLSe1Kxl08efKyX6QsXBl4V4pM_ybljZ3F5zcZUQAPo-CM9ak6w/viewform?usp=dialog)
+
 
 # ProfileScorer
 Score single, and multiple (complex) abundance profiles
